@@ -1,10 +1,1 @@
-
-{
-    "assetID": "urn:aaid:AS:UE1:295d2b43-91c5-4ba7-a6f4-d2d592b091b6",
-    "outputFormat": "pdf",
-    "jsonDataForMerge": {
-      "name": "Kava",
-      "email": "kava@gmail.com"
-     
-    }
-  }
+{"assetID": "urn:aaid:AS:UE1:8294b2d0-64be-46e6-99bc-c645f155da6f", "outputFormat": "pdf", "jsonDataForMerge": {"name": "Kava", "email": "kava@gmail.com"}}
