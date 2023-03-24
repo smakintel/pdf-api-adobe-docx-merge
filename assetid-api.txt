@@ -5,6 +5,7 @@ curl --location --request POST 'https://pdf-services.adobe.io/assets' \
 --data-raw '{
     "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
 }' 
+
 # Returns
 
 # uploadURI: https://dcplatformstorageservice-prod-us-east-1.s3-accelerate.amazonaws.com/8dcedc78c4e3472bafb0ae554a207fc1_A0E13DF8641D54FB0A495EE4%40techacct.adobe.com/b3f9afb9-a02a-4a32-81d7-d62c98457f70?X-Amz-Security-Token=FwoGZXIvYXdzEBsaDHli5I57Po0x4jn0%2FyLUAdIN%2BDzNRbpF3ozx2yr3kA54cBr4zHAnTLPNn1OIT9Qo5EtG7162yt2njg4s4y0UZ78Fxh4tdZJv7toU5%2FFPKjHbyR4u3vfQOtktzKQtvAu5RSYiC2k9HW3gQpMEAMm6BzdJ7pbyj0ut2RObbjLCZlNWxRRoUv6%2B0tq5%2FhE5LRWCKKYX5hybK5gQvfX3zmRlflVRX%2F4tJfDCjnZgyyYCxcBfTSxteCeIbPQfJiC1ooXUlpsO1Hmfb%2FT1aaZIabR3uKpcOEXFw1rykWBVVzLR%2BF2hT3poKMvi9aAGMi2mT6xN0hxgEDVb9RMobQr5OL5b1sJ4q9Qpiph5GyXA7GXXil4JLmg%2FLKE1sQs%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230324T100116Z&X-Amz-SignedHeaders=content-type%3Bhost&X-Amz-Expires=3600&X-Amz-Credential=ASIAWD2N7EVPPBICOEGH%2F20230324%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=9856c604c2ae85ad0be208a0e343db82b3d527ba816c37acefd2cb8a02b82d6a
