@@ -75,6 +75,7 @@ def pdf():
     final_response.raise_for_status()
     print(final_response.json()["status"])
     print(final_response.__dict__) 
+    print("   ")
     print(final_response.request.__dict__)    
  
   
